@@ -3,6 +3,9 @@ public class Carro{
 	public void encender(){
 		System.out.println("Me he encendido");
 	}
+	
+	
+	
 	public int acelerar(int a){
 		velocidad=velocidad+a;
 		return velocidad;
